@@ -1,0 +1,8 @@
+We've just re-released #HedgeDoc 1.10.0 🎉
+
+⚠️ This release contains a medium severity security fix for users of MySQL/MariaDB!  ⚠️
+
+Please be aware that running HedgeDoc with Node.js 22.7.0 may lead to UTF-8 problems because of a regression in Node.
+We recommend using Node 20 for the time being.
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.0/
