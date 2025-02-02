@@ -1,0 +1,5 @@
+We've just re-released #HedgeDoc 1.10.1 🎉
+
+⚠️ This release contains a medium severity security fix for users of the local email/password login!  ⚠️
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.1/
