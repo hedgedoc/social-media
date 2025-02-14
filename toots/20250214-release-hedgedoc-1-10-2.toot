@@ -1,0 +1,7 @@
+We've just released #HedgeDoc 1.10.2 🎉
+
+⚠️ This release contains a security fix for users of the SAML Login!  ⚠️
+
+See our security advisory https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-gw77-7r3c-4cm3
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.2/
