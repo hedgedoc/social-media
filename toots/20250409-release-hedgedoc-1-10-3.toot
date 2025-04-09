@@ -1,0 +1,7 @@
+We've just released #HedgeDoc 1.10.3 🎉
+
+⚠️ This release contains a security fix for XSS possibility through malicious SVG uploads  ⚠️
+
+See our security advisory https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-3983-rrqh-mvx5
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.3/
