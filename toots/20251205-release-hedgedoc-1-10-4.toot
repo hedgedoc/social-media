@@ -1,0 +1,9 @@
+We've just released #HedgeDoc 1.10.4 🎉
+
+⚠️ This release contains two security fixes for CSRF possibility through OIDC and for cross-site side-effects in iframes ⚠️
+
+See our security advisory
+- https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-6wm6-3vpq-6qvv
+- https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-gmgw-rcmh-7x47
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.4/
