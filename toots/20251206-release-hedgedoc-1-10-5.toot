@@ -1,0 +1,5 @@
+We've just released #HedgeDoc 1.10.5 🎉
+
+This release contains a small fix, so that the healthcheck of docker images works again.
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.5/
