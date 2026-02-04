@@ -1,0 +1,9 @@
+We've just released #HedgeDoc 1.10.6 🎉
+
+⚠️  This release contains two security fixes for filesystem hosted SVGs ⚠️
+
+See our security advisory
+- https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-x74j-jmf9-534w
+- https://github.com/hedgedoc/hedgedoc/security/advisories/GHSA-672m-p72w-gw28
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.6/
