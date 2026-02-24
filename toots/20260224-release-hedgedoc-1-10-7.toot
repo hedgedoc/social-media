@@ -1,0 +1,6 @@
+We've just released #HedgeDoc 1.10.7 🎉
+
+This release contains a small fix to the realtime code.
+Since we got some reports about crashing HedgeDoc instances, we recommend updating as soon as possible.
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.7/
