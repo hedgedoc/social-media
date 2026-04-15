@@ -1,0 +1,5 @@
+We've just released #HedgeDoc 1.10.8 🎉
+
+This release contains a fix to the realtime code, to prevent a bug that occurs when more than 5 people are concurrently working on a note.
+
+Read the full changelog on https://hedgedoc.org/releases/1.10.8/
