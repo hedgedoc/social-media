@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request'
     steps:
-      - uses: joschi/toot-together@v1.x
+      - uses: joschi/toot-together@v1.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   toot:
@@ -17,7 +17,7 @@ jobs:
       - name: checkout master
         uses: actions/checkout@v4
       - name: Toot
-        uses: joschi/toot-together@v1.x
+        uses: joschi/toot-together@v1.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MASTODON_URL: https://fosstodon.org/
