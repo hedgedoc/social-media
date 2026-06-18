@@ -1,0 +1,6 @@
+We've just released #HedgeDoc 1.11.0 🎉
+
+This release contains four security fixes, therefore we recommend updating soon.
+Furthermore, users of Cloudflare in front of HedgeDoc should enable a new config option.
+
+Read the full changelog on https://hedgedoc.org/releases/1.11.0/
