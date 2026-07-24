@@ -1,0 +1,11 @@
+We've just released #HedgeDoc 1.11.1 🎉
+
+This release contains one security fix.
+
+Also included in this release are:
+- support for WebP image file upload (except for imgur)
+- fixes and improvements for the external link warning
+- functioning browser zoom shortcuts
+- fixes for the side-by-side reveal.js renderer
+
+Read the full changelog on https://hedgedoc.org/releases/1.11.1/
