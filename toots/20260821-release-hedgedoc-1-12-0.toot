@@ -1,0 +1,10 @@
+We've just released #HedgeDoc 1.12.0 🎉
+
+This release drops support for Node 18, so please upgrade your node version before upgrading in case of manual deployments.
+
+Also included in this release are:
+- bugfixes for the realtime code for flaky network connections
+- allows skipping the login modal when exactly one external auth provider is configured
+- links always open in new tabs again
+
+Read the full changelog on https://hedgedoc.org/releases/1.12.0/
