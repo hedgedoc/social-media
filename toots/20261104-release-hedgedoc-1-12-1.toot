@@ -1,0 +1,10 @@
+We've just released #HedgeDoc 1.12.1 🎉
+
+We recommend updating soon as we include a lot of security fixes in this release.
+
+This includes (among others):
+- A DoS attack for instances via authenticated users
+- A fix for data loss while having connection problems
+- A fix to handle checkbox toogeling correctly
+
+Read the full changelog on https://hedgedoc.org/releases/1.12.1/
