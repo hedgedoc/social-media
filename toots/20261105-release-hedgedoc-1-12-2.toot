@@ -1,0 +1,5 @@
+We've just released #HedgeDoc 1.12.2 🎉
+
+This is a very small release that fixes problems with a database migration in Postgres.
+
+Read the full changelog on https://hedgedoc.org/releases/1.12.2/
