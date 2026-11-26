@@ -1,0 +1,9 @@
+We've just released #HedgeDoc 1.12.3 🎉
+
+This release should fix the bugs in the withdrawn releases 1.12.1 and 1.12.2 by repairing the database.
+Therefore, please inspect the release notes for 1.12.1 and 1.12.2 as well.
+
+Read the full changelog:
+- https://hedgedoc.org/releases/1.12.1/
+- https://hedgedoc.org/releases/1.12.2/
+- https://hedgedoc.org/releases/1.12.3/
