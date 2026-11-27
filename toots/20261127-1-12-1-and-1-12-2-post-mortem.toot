@@ -1,0 +1,5 @@
+With the release of HedgeDoc 1.12.3, we as the developers, would like to take the opportunity to explain what went wrong with the previous two releases, why it took us longer than expected to provide another fixup release, and what we changed to prevent similar incidents in the future.
+
+We, Erik and Molly, sincerely apologize for any trouble and problems that we caused with the two preceding faulty releases.
+
+To read the full post mortem please visit https://community.hedgedoc.org/t/a-post-mortem-on-the-faulty-hedgedoc-1-12-1-and-1-12-2-releases/4029
